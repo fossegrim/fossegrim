@@ -1,6 +1,6 @@
 Hello, I'm Olav Fosse. I like programming, web development and tinkering with ~~Arch~~ ~~Emacs~~ OpenBSD.
 
-- I’m currently working on [liracer](https://github.com/olav35/liracer)/[liracer-rewrite](https://github.com/olav35/liracer-rewrite).
+- I’m currently working on [eradio](https://github.com/olav35/eradio/) and [liracer](https://github.com/olav35/liracer)/[liracer-rewrite](https://github.com/olav35/liracer-rewrite).
 - I’m currently learning Cypress and GraphQL/Apollo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olav35)
